@@ -1,5 +1,5 @@
 # Arknights UI：H5 + CSS 复刻明日方舟主界面
-![screenshot](/screenshot.png)
+![screenshot](https://github.com/DeringGau/happy-code/blob/master/arknights-ui-master/%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE.png)
 
 ## IDEA
 本来只是想做个人物立绘挂上一个日历做壁纸的，然后顺手把按键也做了上去，感觉这么多键位可以开发不少功能呢。
