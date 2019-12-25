@@ -1,4 +1,6 @@
 # 多款鼠标悬停图文动画效果
+![screenshot](https://github.com/DeringGau/happy-code/blob/master/多款鼠标悬停图文动画效果/动画/鼠标悬停GIF1.gif)
+![screenshot](https://github.com/DeringGau/happy-code/blob/master/多款鼠标悬停图文动画效果/动画/鼠标悬停GIF2.gif)
 ![screenshot](https://github.com/DeringGau/happy-code/blob/master/多款鼠标悬停图文动画效果/效果截图.png)
 
 ## IDEA
