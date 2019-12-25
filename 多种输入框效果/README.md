@@ -1,4 +1,4 @@
-# 多种输入框效果
+# web多种输入框效果
 
 ![screenshot](https://github.com/DeringGau/happy-code/blob/master/多种输入框效果/图片/搜索框GIF1.gif)
 ![screenshot](https://github.com/DeringGau/happy-code/blob/master/多种输入框效果/图片/搜索框GIF2.gif)
